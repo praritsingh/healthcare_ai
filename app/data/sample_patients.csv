@@ -1,0 +1,16 @@
+patient_id,age,bmi,systolic_bp,diastolic_bp,glucose,cholesterol,smoker,exercise_hours_per_week,family_history,clinical_note,high_risk
+P0001,58,31.2,148,92,142,238,1,0.5,1,"Patient reports chest tightness on exertion and occasional shortness of breath. History of hypertension, prescribed lisinopril.",1
+P0002,34,22.1,118,76,88,175,0,4.0,0,"Routine checkup. No complaints. Active lifestyle, runs 3x per week.",0
+P0003,61,29.8,152,95,168,255,1,0.0,1,"Type 2 diabetes diagnosed 5 years ago, on metformin. Reports fatigue and blurred vision.",1
+P0004,45,24.5,124,80,101,190,0,2.5,0,"Mild seasonal allergies. Blood pressure borderline elevated.",0
+P0005,52,33.4,158,98,175,265,1,0.0,1,"Reports frequent headaches and dizziness. Family history of stroke. Currently on atorvastatin.",1
+P0006,29,21.0,112,72,85,160,0,5.0,0,"No significant findings. Annual physical, all labs within normal range.",0
+P0007,66,27.9,145,90,132,220,0,1.0,1,"History of atrial fibrillation, on warfarin. Reports occasional palpitations.",1
+P0008,38,23.8,120,78,92,182,0,3.0,0,"General wellness visit, no acute concerns.",0
+P0009,55,30.1,150,94,155,245,1,0.5,1,"Reports increased thirst and frequent urination. Suspected pre-diabetes, ordering A1C.",1
+P0010,42,25.6,128,82,105,198,0,2.0,0,"Mild lower back pain, likely musculoskeletal. Vitals stable.",0
+P0011,60,32.0,160,100,180,270,1,0.0,1,"Uncontrolled hypertension and hyperlipidemia. Referred to cardiology for further evaluation.",1
+P0012,31,20.5,110,70,80,155,0,6.0,0,"Marathon runner, excellent cardiovascular fitness, no concerns.",0
+P0013,48,28.3,138,88,128,215,1,1.0,0,"Smoker for 15 years, mild persistent cough, recommending smoking cessation counseling.",1
+P0014,36,22.9,116,74,90,170,0,3.5,0,"Healthy young adult, no chronic conditions.",0
+P0015,63,31.8,155,96,165,250,1,0.0,1,"Long-standing type 2 diabetes with early signs of neuropathy in feet.",1

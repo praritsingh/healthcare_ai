@@ -1,0 +1,37 @@
+[
+  {
+    "id": "hypertension_overview",
+    "topic": "Hypertension",
+    "text": "High blood pressure, or hypertension, means the force of blood against artery walls is too high. It usually develops over many years and often has no symptoms, but can lead to heart disease and stroke if untreated. Lifestyle changes such as reducing sodium intake, regular exercise, and maintaining a healthy weight can help manage blood pressure alongside prescribed medication."
+  },
+  {
+    "id": "type2_diabetes_overview",
+    "topic": "Type 2 Diabetes",
+    "text": "Type 2 diabetes is a chronic condition affecting how the body processes blood sugar (glucose). Symptoms include increased thirst, frequent urination, fatigue, and blurred vision. Management typically involves blood sugar monitoring, healthy eating, physical activity, and medications such as metformin. Untreated, it can lead to nerve damage, kidney disease, and cardiovascular complications."
+  },
+  {
+    "id": "high_cholesterol_overview",
+    "topic": "High Cholesterol",
+    "text": "High cholesterol occurs when there is too much fatty substance (cholesterol) in the blood, which can build up in artery walls and increase the risk of heart disease and stroke. Diet, exercise, and medications like statins are common approaches to lowering cholesterol levels."
+  },
+  {
+    "id": "atrial_fibrillation_overview",
+    "topic": "Atrial Fibrillation",
+    "text": "Atrial fibrillation (AFib) is an irregular and often rapid heart rhythm that can increase the risk of stroke, heart failure, and other complications. Common symptoms include palpitations, fatigue, and shortness of breath. Treatment may include blood thinners, rate-control medications, or procedures to restore normal rhythm."
+  },
+  {
+    "id": "smoking_cessation",
+    "topic": "Smoking Cessation",
+    "text": "Quitting smoking significantly reduces the risk of heart disease, stroke, and lung conditions. Nicotine replacement therapy, prescription medications, and behavioral counseling can improve the chances of successfully quitting. Benefits to cardiovascular health begin within hours of quitting and continue to improve over years."
+  },
+  {
+    "id": "diabetic_neuropathy",
+    "topic": "Diabetic Neuropathy",
+    "text": "Diabetic neuropathy is nerve damage caused by prolonged high blood sugar, most commonly affecting the feet and legs. Early signs include tingling, numbness, or pain. Good blood sugar control, regular foot checks, and prompt treatment of wounds are key to preventing serious complications."
+  },
+  {
+    "id": "stroke_risk_factors",
+    "topic": "Stroke Risk Factors",
+    "text": "Major risk factors for stroke include high blood pressure, high cholesterol, diabetes, smoking, obesity, and family history. Recognizing symptoms early (sudden numbness, confusion, trouble speaking) and seeking immediate care is critical, as treatment within the first hours greatly improves outcomes."
+  }
+]
